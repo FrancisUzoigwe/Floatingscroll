@@ -7,7 +7,7 @@ const Name = () => {
   return (
     <div id="header">
       <Container>
-        <Real>My Name is Francis Kossyrisochukwu Uzoigwe</Real>
+        <Real>My Name is Francis Kossyrisochukwu Uzoigwe (Therapist)</Real>
         <Main id="header" to="header" duration={600} smooth={true}>
           <Icon />
         </Main>
